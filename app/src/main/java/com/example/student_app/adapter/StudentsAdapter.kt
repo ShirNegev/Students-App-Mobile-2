@@ -6,8 +6,6 @@ import android.view.ViewGroup
 import android.widget.CheckBox
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.idz.colman24class1.R
-import com.idz.colman24class1.model.Student
 
 class StudentsRecyclerAdapter(
     private val students: MutableList<Student>,
